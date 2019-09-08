@@ -3,7 +3,7 @@ A Software Defined Networking **(SDN)** based Video Classification System
 ## Motivation
 This Project was done as part of my Undergraduate CourseWork
 ## Description
-In University, Video sites like YouTube are completely blocked regardless of their Content. This hinders the access to Educational Content across YouTube. In order to overcome this,A SDN based Video Classification System that categorizes YouTube Videos to either Entertainment or Education category thereby determining their access was implemented.
+In University, Video sites like YouTube are completely blocked regardless of their Content. This hinders access to Educational Content across YouTube. In order to overcome this,a SDN based Video Classification System that categorizes YouTube Videos to either Entertainment or Education category thereby determining their access was implemented.
 ## Installation
 To Set up this project, You need following
 ```
